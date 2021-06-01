@@ -1,0 +1,45 @@
+# Site settings
+title: Nelson Scientific Labs
+email: info@nelsonscilabs.com
+description: > # this means to ignore newlines until "baseurl:"
+  Our overall goal is to leverage our extensive 
+  experience and expertise for the discovery and 
+  development of molecular signatures for use as 
+  biomarkers.
+
+
+
+baseurl: ""
+url: ""
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
