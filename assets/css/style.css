@@ -88,9 +88,9 @@ p {
   font-size: 16px;
 }
 
-li {
+/* li {
   color: #6b6b84;
-}
+} */
 
 p:last-child {
   margin-bottom: 0;
