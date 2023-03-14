@@ -1278,7 +1278,7 @@ Top Services Area CSS
   content: "";
   height: 15px;
   width: 15px;
-  background-color: #0fe7f9;
+  background-color: #305496;
   right: 0;
   left: 50px;
   top: 2px;
@@ -1294,10 +1294,10 @@ Top Services Area CSS
   line-height: 85px;
   text-align: center;
   font-size: 40px;
-  color: #0fe7f9;
+  color: #305496;
   background-color: #ffffff;
   border-radius: 50px;
-  border: 1px dashed #0fe7f9;
+  border: 1px dashed #305496;
 }
 
 .top-services-item h3 {
@@ -1343,9 +1343,9 @@ About Area CSS
   padding: 10px;
   padding-left: 0;
   border-radius: 5px;
-  border-top: 10px solid #0fe7f9;
-  border-right: 10px solid #0fe7f9;
-  border-bottom: 10px solid #0fe7f9;
+  border-top: 10px solid #305496;
+  border-right: 10px solid #305496;
+  border-bottom: 10px solid #305496;
 }
 
 .about-image img:nth-child(2) {
@@ -1698,7 +1698,7 @@ Projects Area CSS
   height: 30px;
   width: 35px;
   line-height: 30px;
-  background-color: #0fe7f9;
+  background-color: #305496;
   color: #ffffff;
   text-align: center;
   border-radius: 5px;
@@ -1753,7 +1753,7 @@ Projects Area CSS
 
 .projects-item:hover .image .icon i:hover {
   background-color: #ffffff;
-  color: #0fe7f9;
+  color: #305496;
 }
 
 .projects-item:hover .content::before {
@@ -1868,11 +1868,11 @@ Why Choose Area CSS
   height: 40px;
   width: 40px;
   line-height: 40px;
-  border: 1px solid #0fe7f9;
+  border: 1px solid #305496;
   border-radius: 50px;
   text-align: center;
   font-size: 25px;
-  color: #0fe7f9;
+  color: #305496;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1909,7 +1909,7 @@ Team Area CSS
 
 .single-team .image img {
   border-radius: 50%;
-  border: 5px solid #0fe7f9;
+  border: 5px solid #305496;
 }
 
 .single-team .image .social {
@@ -1941,7 +1941,7 @@ Team Area CSS
   display: block;
   width: 35px;
   height: 35px;
-  background-color: #0fe7f9;
+  background-color: #305496;
   text-align: center;
   position: relative;
   font-size: 20px;
@@ -2048,7 +2048,7 @@ Team Area CSS
   display: block;
   width: 33px;
   height: 33px;
-  background-color: #0fe7f9;
+  background-color: #305496;
   text-align: center;
   position: relative;
   font-size: 20px;
@@ -2510,7 +2510,7 @@ Fun Facts Area CSS
 }
 
 .fun-facts-inner {
-  background-color: #0fe7f9;
+  background-color: #305496;
   padding: 60px 100px;
   position: relative;
   z-index: 1;
@@ -2882,7 +2882,7 @@ Main Banner Area CSS
 .main-banner-area.item-two .main-banner-content .banner-btn .default-btn-two {
   display: inline-block;
   padding: 12px 34px;
-  background-color: #0fe7f9;
+  background-color: #305496;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: 0.5s;
@@ -3294,7 +3294,7 @@ Testing Area CSS
 Newsletter Area CSS
 =================================================*/
 .newsletter-inner {
-  background-color: #0fe7f9;
+  background-color: #305496;
   padding: 55px 70px;
   border-radius: 30px;
 }
@@ -3389,7 +3389,7 @@ Features Area CSS
   content: "";
   height: 15px;
   width: 15px;
-  background-color: #0fe7f9;
+  background-color: #305496;
   right: 0;
   left: 50px;
   top: 2px;
@@ -3407,10 +3407,10 @@ Features Area CSS
   line-height: 85px;
   text-align: center;
   font-size: 40px;
-  color: #0fe7f9;
+  color: #305496;
   background-color: #ffffff;
   border-radius: 50px;
-  border: 1px dashed #0fe7f9;
+  border: 1px dashed #305496;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -4118,7 +4118,7 @@ Faq Area CSS
 }
 
 .error-content .default-btn:hover {
-  background-color: #0fe7f9;
+  background-color: #305496;
 }
 
 /*================================================
