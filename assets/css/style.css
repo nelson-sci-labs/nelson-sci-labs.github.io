@@ -1158,7 +1158,7 @@ Main Slider Area CSS
   left: 0;
   right: 0;
   top: 0;
-  opacity: .70;
+  /* opacity: .70; */
   z-index: -1;
 }
 
