@@ -1224,7 +1224,7 @@ Main Slider Area CSS
 }
 
 .home-slides.owl-theme .owl-nav [class*=owl-]:hover, .home-slides.owl-theme .owl-nav [class*=owl-]:focus {
-  background-color: #031521;
+  /* background-color: #031521; */
 }
 
 .home-slides.owl-theme .owl-nav [class*=owl-].owl-next {
