@@ -82,7 +82,7 @@ button {
 p {
   margin-bottom: 15px;
   line-height: 1.8;
-  color: #6b6b84;
+  /* color: #6b6b84; */
   font-weight: 400;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -179,8 +179,10 @@ Default Btn CSS
   border-radius: 50%;
   background-color: #031521;
   color: #ffffff;
-  -webkit-transition: width 0.5s ease-in-out,  height 0.5s ease-in-out;
-  transition: width 0.5s ease-in-out,  height 0.5s ease-in-out;
+  -webkit-transition: width 0.5s ease-in-out, 
+ height 0.5s ease-in-out;
+  transition: width 0.5s ease-in-out, 
+ height 0.5s ease-in-out;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   z-index: -1;
