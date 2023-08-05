@@ -153,14 +153,6 @@ button {
   color: #777;
 }
 
-a {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  z-index: 1;
-}
 
 .mobile-wrapper {
   margin-top: 50px;
